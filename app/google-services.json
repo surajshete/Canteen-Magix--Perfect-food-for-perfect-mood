@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "609972654350",
+    "project_id": "canteen-magix",
+    "storage_bucket": "canteen-magix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609972654350:android:256fac1aefab868a49475f",
+        "android_client_info": {
+          "package_name": "com.food2.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609972654350-56apjstofss6r6fvvvgj1lr8vavglgd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.food2.shopping",
+            "certificate_hash": "b866b56028ee2ba45d15b4c9885abdc7dca4ca6f"
+          }
+        },
+        {
+          "client_id": "609972654350-kc0c016vsljmrpperffgmdlcicqrh45h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Szx2XsdToh8lAHsDN9uJD4VUvAue_e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609972654350-kc0c016vsljmrpperffgmdlcicqrh45h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
